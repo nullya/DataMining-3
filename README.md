@@ -3,7 +3,7 @@
 
 本次作业使用的数据集为：
 
-MNIST: [http://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data](http://yann.lecun.com/exdb/mnist/)
+MNIST: http://yann.lecun.com/exdb/mnist/
 
 程序代码在 DM3.ipynb 里
 
